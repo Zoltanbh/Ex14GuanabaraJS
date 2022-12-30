@@ -1,0 +1,6 @@
+Hello helloooo....
+An begginer friend asked me to post this amazing and simple exercise about how to change pictures in JS.
+
+thats it ... 
+
+Jesus bless you!
